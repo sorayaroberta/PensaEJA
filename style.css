@@ -19,12 +19,12 @@
     position: fixed;
     left: 0;
     right: 0;
-    height: 30px;
+    height: 48px;
 
 }
 
 .cabecalho-logo{
-    height: 28px;
+    height: 32px;
 }
 
 .cabecalho-menu{
@@ -37,7 +37,7 @@
     font-family: 'Anton', sans-serif;
     color: #ffff;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 15px;
     cursor: pointer;
     justify-content: space-around;
     height: 10px;
@@ -61,7 +61,7 @@
     font-family: 'Anton', sans-serif;
     color: #ffff;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 15px;
     cursor: pointer;
    
 }
@@ -87,15 +87,15 @@
     text-align: center;
     color: #3F407E;
     padding: 72px;
-    font-size: 25px;
+    font-size: 48px;
     font-family: 'Anton', sans-serif;
-    margin-top: 28px;
+    margin-top: 32px;
 }
 
 .conteudo-principal-botao-pensaeja{
     align-items: center;
     justify-content: space-around;
-    font-size: 20px;
+    font-size: 28px;
     /* gap:32px; */
     font-family: 'Anton', sans-serif;
     color: #3F407E;
@@ -154,7 +154,7 @@
 .secao2-sobre-titulo{
     color: #ffff;
     font-family: 'Anton', sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     margin-top: 10px;
 
 
@@ -163,11 +163,11 @@
 .secao2-sobre-texto{
     color: #ffff;
     font-family: 'Open Sans', sans-serif;
-    padding: 10px;
+    padding: 14px;
     /* line-height: 19px; */
     text-align: center;
     margin-top: 10px;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 .publicacoes{
@@ -182,7 +182,7 @@
 .publicacoes-titulo{
     color: #ffff;
     font-family: 'Anton', sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     margin-top: 10px;
 }
 .publicacoes-botao{
@@ -239,7 +239,7 @@
 .equipe-titulo{
     color: #3F407E;
     font-family: 'Anton', sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     align-items: center;
     text-align: center;
     margin-top: 10px;
@@ -248,7 +248,7 @@
 .equipe-titulo-autores{
     color: #3F407E;
     font-family: 'Anton', sans-serif;
-    font-size: 12px;
+    font-size: 18px;
     align-items: center;
     text-align: center;
     margin-top: 20px;
@@ -256,7 +256,7 @@
 .equipe-titulo-organizadoras{
     color: #3F407E;
     font-family: 'Anton', sans-serif;
-    font-size: 10px;
+    font-size: 18px;
     align-items: center;
     text-align: center;
     margin-top: 20px;
@@ -282,7 +282,7 @@
     align-items: center;
     text-align: center;
     margin-top: 10px;
-    font-size: 8px;
+    font-size: 14px;
 }
 .contato{
     display: flex;
@@ -290,13 +290,12 @@
     font-family: 'Anton', sans-serif;
     background-color: #3F407E;
     margin-top: 20px;
-    font-size: 12px;
 }
 
 .contato-titulo{
     color: #ffff;
     font-family: 'Anton', sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     text-align: center;
     margin-top: 10px;
 
@@ -309,7 +308,7 @@
     line-height: 0;
     text-align: center;
     justify-content: left;
-    font-size: 8px;
+    font-size: 14px;
     /* margin-top: 10px; */
 
     color: #ffff;
