@@ -87,7 +87,7 @@
     text-align: center;
     color: #3F407E;
     padding: 72px;
-    font-size: 38px;
+    font-size: 28px;
     font-family: 'Anton', sans-serif;
     margin-top: 32px;
 }
@@ -214,7 +214,7 @@
 }
 .publicacoes-a{
    margin: 0;
-   font-size: 8px;
+   font-size: 10px;
 
 }
 .material-icons{
@@ -335,3 +335,5 @@
     height: 5%;
 
 }
+
+
